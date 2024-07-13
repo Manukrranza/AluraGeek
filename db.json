@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Control Xbox Series S",
+            "description": "Control de ultima generación",
+            "price": 600,
+            "image": "images/product1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Xbox Series X",
+            "description": "Consola de ultima generación",
+            "price": 2500,
+            "image": "images/product2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "PlayStation 5",
+            "description": "Consola de ultima generación",
+            "price": 300,
+            "image": "images/product3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Read Dead Redeption 2",
+            "description": "Juego de Rockstar Games",
+            "price": 400,
+            "image": "images/product4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "FC 24 PS5",
+            "description": "Juego EA SPORTS",
+            "price": 500,
+            "image": "images/product5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Control Xbox Series S Azul",
+            "description": "Control de ultima generación",
+            "price": 600,
+            "image": "images/product6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Control Xbox Series S Negro",
+            "description": "Control de ultima generación",
+            "price": 700,
+            "image": "images/product7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Star Wars Episodio 3",
+            "description": "Pelicula LucasFilms",
+            "price": 800,
+            "image": "images/product8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Lego Star Wars",
+            "description": "set de lego",
+            "price": 900,
+            "image": "images/product9.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Mortal Kombat 1",
+            "description": "videojuego",
+            "price": 1000,
+            "image": "images/product10.jpg"
+        }
+    ]
+}
